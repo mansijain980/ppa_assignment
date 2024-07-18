@@ -15,6 +15,11 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![image (1)](https://github.com/user-attachments/assets/7eb364d4-e521-44a3-9fad-804c5fd8f5af)
+![image (3)](https://github.com/user-attachments/assets/b84a6215-9bfd-424d-91f4-c024b109948e)
+![image (2)](https://github.com/user-attachments/assets/8a6b89c2-481c-4b99-80d4-b1040ccca76f)
+![image (4)](https://github.com/user-attachments/assets/7aae57c0-8394-4bcb-b5fc-1608c7628118)
+
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
